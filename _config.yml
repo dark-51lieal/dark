@@ -1,0 +1,18 @@
+## Settings
+title: UNAUTHORIZED ACCESS IS PROHIBITED
+owner: ""
+url: "https://ileg.al"
+baseurl: "/"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "51lieal@ileg.al"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "&empty; 51lieal"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
