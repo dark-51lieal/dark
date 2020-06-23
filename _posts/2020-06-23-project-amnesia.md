@@ -1,5 +1,6 @@
 ---
 layout: post
+footer: true
 title: Project Amnesia
 author: 51lieal
 category: Server
