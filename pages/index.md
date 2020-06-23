@@ -8,7 +8,6 @@ footer: true
 title: ""
 author: ""
 encrypted_text: true
-hidden: true
 permalink: /
 ---
 
