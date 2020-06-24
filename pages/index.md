@@ -5,7 +5,7 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
+title: "The Sadness and Happiness"
 author: ""
 encrypted_text: true
 permalink: /
