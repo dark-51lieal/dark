@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 footer: true
 title: Encrypt and Decrypt
 author: 51lieal
