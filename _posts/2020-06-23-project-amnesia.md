@@ -1,7 +1,7 @@
 ---
 layout: post
 footer: true
-title: Project Amnesia
+title: The Sadness and Happiness
 author: 51lieal
 category: Server
 date: 2020-06-23
@@ -19,6 +19,5 @@ VGA : Nvidia Quadro 4000<br>
 <br>
 ## Node
 
-IP-Subnets : 10.100.195.0/24<br>
+IP-Subnets : 195.195.195.0/24<br>
 Uniqe Node Name : 51lieal<br>
-Short Description : Amnesia
