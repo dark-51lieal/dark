@@ -11,7 +11,14 @@ encrypted_text: true
 permalink: /
 ---
 
-<video width="854" height="412" controls autoplay>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+video {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+<video width="854" controls autoplay>
   <source src="/amnesia/dark.mp4" type="video/mp4">
 </video>
 
