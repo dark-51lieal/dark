@@ -422,38 +422,7 @@ body {
     }
   }
 }
-// screen max width <= 800 px
-@media screen and (max-width: 800px) {
-  .page .container {
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    margin: 0;
-    border: 1.8px solid $color-primary;
-    background-color: rgba($color-postbg, 0.7);
-    .header {
-      border: none;
-      #mxmz_btn {
-        display: none;
-      }
-    }
-    .div_article {
-      border: none;
-    }
-    .header .nav_bar ul .header_btn .btn_text {
-      font-size: 0;
-    }
-    .header .nav_bar ul {
-      .title {
-        font-size: 80%;
-      }
-      .owner {
-        font-size: 0;
-      }
-    }
-  }
-}
+
 // 51lieal
 .amnesia {
     margin-left: auto;
