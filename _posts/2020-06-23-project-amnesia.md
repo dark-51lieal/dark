@@ -3,7 +3,7 @@ layout: post
 footer: true
 title: The Sadness and Happiness
 author: 51lieal
-category: Server
+category: root
 date: 2020-06-23
 ---
 
