@@ -1,7 +1,7 @@
 ---
 layout: post
 footer: true
-title: Secure Jekyll Site with Github Pages, Cloudflare DNS, and Cloudflare Worker
+title: Secure Site with Github Pages, Cloudflare DNS and Worker
 author: amnesia
 category: K
 date: 2020-07-28
