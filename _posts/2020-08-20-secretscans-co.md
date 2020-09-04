@@ -7,16 +7,11 @@ category: Nothing
 date: 2020-08-20
 ---
 
-.text
-{
-   color:pink;
-}
-
 ## 04 Sept 2020
 
 # Happiness
 
-<span class="text">I'm glad that i joined to Secretscans.co, until now i learning a lot
+<span style="color:pink">I'm glad that i joined to Secretscans.co, until now i learning a lot
 from there. Meet some people that was nice. 
 
 Currently i was TS-Student, and as TS it's a bit hard or no ? hehe.
@@ -31,7 +26,7 @@ The software i use is Photoshop, sometimes i use Krita.
 ## 20 Aug 2020
 
 # First Contact
-<span class="text">
+<span style="color:pink">
 I talk to one of the staff or perhaps the one who hold the "power" ?
 and i decided to join secret scans since i don't get any answer 
 from my previous local scans until now.
