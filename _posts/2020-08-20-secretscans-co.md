@@ -20,7 +20,7 @@ from there. Meet some people that was nice.
 
 <span style="color:pink">I decided to learn about Cleaner / Redrawer and that's really hard.
 I mean in some page, you really need have a skill not a beginner like me.
-Oh yeah and i found good tools to redraw that was Spot Healing Brush,
+Oh yeah i found good tools to redraw that was Spot Healing Brush,
 whoever make it I'm proud of you :D 
 </span>
 
