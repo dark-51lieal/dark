@@ -11,33 +11,33 @@ date: 2020-08-20
 
 # Happiness
 
-<span style="color:pink">I'm glad that i joined to Secretscans.co, until now i learning a lot
+I'm glad that i joined to Secretscans.co, until now i learning a lot
 from there. Meet some people that was nice. 
-</span>
 
-<span style="color:pink">Currently i was TS-Student, and as TS it's a bit hard or no ? hehe.
-</span>
 
-<span style="color:pink">I decided to learn about Cleaner / Redrawer and that's really hard.
+Currently i was TS-Student, and as TS it's a bit hard or no ? hehe.
+
+
+I decided to learn about Cleaner / Redrawer and that's really hard.
 I mean in some page, you really need have a skill not a beginner like me.
 Oh yeah i found good tools to redraw that was Spot Healing Brush,
 whoever make it I'm proud of you :D 
-</span>
 
-<span style="color:pink">The software i use is Photoshop, sometimes i use Krita.
-</span>
+
+The software i use is Photoshop, sometimes i use Krita.
+
 
 ## 20 Aug 2020
 
 # First Contact
-<span style="color:pink">
+
 I talk to one of the staff or perhaps the one who hold the "power" ?
 and i decided to join secret scans since i don't get any answer 
 from my previous local scans until now.
-</span>
 
-<span style="color:pink">That way i become TS-Student based on my previous test on Kiryuu.co
-</span>
+
+That way i become TS-Student based on my previous test on Kiryuu.co
+
 
 ## Series that i do take part of
 
