@@ -7,11 +7,16 @@ category: Nothing
 date: 2020-08-20
 ---
 
+.text
+{
+   color:pink;
+}
+
 ## 04 Sept 2020
 
 # Happiness
-```ruby
-I'm glad that i joined to Secretscans.co, until now i learning a lot
+
+<span class="text">I'm glad that i joined to Secretscans.co, until now i learning a lot
 from there. Meet some people that was nice. 
 
 Currently i was TS-Student, and as TS it's a bit hard or no ? hehe.
@@ -22,18 +27,17 @@ Oh yeah and i found good tools to redraw that was Spot Healing Brush,
 whoever make it I'm proud of you :D 
 
 The software i use is Photoshop, sometimes i use Krita.
-
-```
+</span>
 ## 20 Aug 2020
 
 # First Contact
-```ruby
+<span class="text">
 I talk to one of the staff or perhaps the one who hold the "power" ?
 and i decided to join secret scans since i don't get any answer 
 from my previous local scans until now.
 
 That way i become TS-Student based on my previous test on Kiryuu.co
-```
+</span>
 ## Series that i do take part of
 
 # SMGD 
