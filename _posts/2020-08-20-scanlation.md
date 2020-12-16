@@ -10,6 +10,7 @@ date: 2020-08-20
 ## 16 Dec 2020
 
 I have officially become Typesetter but yeah my shaping still bad, Friends are.....
+My English ? Well, I know it isn't "good" but, have you got the point? That's what a language for.
 
 ## 10 Oct 2020
 
