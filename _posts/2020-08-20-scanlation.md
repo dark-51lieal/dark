@@ -48,8 +48,8 @@ That way i become TS-Student based on my previous test on Kiryuu.co
 
 
 ## Series that i'm working on
-``ruby
+```
 Strong Gale Mad Dragon 
 Capture The Golem and Escape Poverty
 Dimensional Mercenary
-``
+```
