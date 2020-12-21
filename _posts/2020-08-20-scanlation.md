@@ -53,4 +53,5 @@ That way i become TS-Student based on my previous test on Kiryuu.co
 Strong Gale Mad Dragon 
 Capture The Golem and Escape Poverty
 Dimensional Mercenary
+Arcana Fantasy
 ```
