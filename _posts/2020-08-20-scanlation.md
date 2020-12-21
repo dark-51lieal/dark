@@ -54,4 +54,5 @@ Strong Gale Mad Dragon
 Capture The Golem and Escape Poverty
 Dimensional Mercenary
 Arcana Fantasy
+1
 ```
