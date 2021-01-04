@@ -51,10 +51,11 @@ from my previous local scans until now.
 That way i become TS-Student based on my previous test on Kiryuu.co
 
 
-## Series that i'm working on
+## Series i'm working on
 ```
 Strong Gale Mad Dragon 
 Capture The Golem and Escape Poverty
 Dimensional Mercenary
 Arcana Fantasy
+Max Level Hero Is Making a Comeback
 ```
