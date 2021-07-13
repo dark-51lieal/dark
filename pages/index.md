@@ -17,8 +17,8 @@ Password:<br>
 total 12<br>
 drwxrwxr-x 2 Nothing Not 4096 Sep 04 20:25 .<br>
 drwxrwxr-x 7 Nothing Not 4096 Sep 04 20:25 ..<br>
--rw-rw-r-- 1 Nothing Not 2379 Sep 04 20:25  <a href="https://ileg.al/amnesia/dark.mp4">dark.mp4</a> /<br>
--rw-rw-r-- 1 Nothing Not 2379 Sep 04 20:25  <a href="https://ileg.al/amnesia/hide.mp4">hide.mp4</a> /<br>
+-rw-rw-r-- 1 Nothing Not 2379 Sep 04 20:25  <a href="https://www.ileg.al/amnesia/dark.mp4">dark.mp4</a> /<br>
+-rw-rw-r-- 1 Nothing Not 2379 Sep 04 20:25  <a href="https://www.ileg.al/amnesia/hide.mp4">hide.mp4</a> /<br>
 <br>
 Nothing@not:~$<br>
 
